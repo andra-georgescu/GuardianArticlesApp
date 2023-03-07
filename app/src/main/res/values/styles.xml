@@ -1,0 +1,41 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.App.CornerSize50Percent" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="TextStyle">
+        <item name="fontFamily">sans-serif-regular</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextStyle.Bold">
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="TextStyle.Bold.Headline">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextStyle.Bold.Subhead"/>
+
+    <style name="TextStyle.Body">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextStyle.Bold.Title">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextStyle.Bold.Label">
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+</resources>

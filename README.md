@@ -1,0 +1,1 @@
+In order for the app to work, you will need an API key. You can get it by registering [here](https://bonobo.capi.gutools.co.uk/register/developer), and then adding your key to api_constants.xml

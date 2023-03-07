@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Guardian</string>
+    <string name="favourite">Favourite</string>
+    <string name="refresh">Refresh</string>
+    <string name="favourites">Favourites</string>
+    <string name="last_week">Last week</string>
+    <string name="this_week">This week</string>
+    <string name="older">Older</string>
+    <string name="error">There\'s been an error, please try again.</string>
+</resources>
